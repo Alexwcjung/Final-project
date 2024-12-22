@@ -21,10 +21,10 @@ Speaking, Reading, Listening, and Writing
 ### 🏷️ Overall time 
 50 minutes
 
-### 🏷️ Lesson Objectives
-1. Students will be able to activate prior knowledge and connect to the topic through a video discussion.
-2. Students will be able to summarize a text to identify its main idea and key details.
-3. Students will be able to sequence story events accurately using visual aids.
+### 🏷️ Lesson Objectives = by the end of the session, students will be able to :
+1. activate prior knowledge and connect to the topic through a video discussion.
+2. summarize a text to identify its main idea and key details.
+3. sequence story events accurately using visual aids.
 
 | **Activity**                                      | **Objective**                                               | **Procedure**                                                                                                                                                                                                                       | **App**                                                                                         | **Duration** |
 |---------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------|

@@ -7,7 +7,7 @@
 
 ---
 
-# 🌱 Lesson Overview
+# ✨ Lesson Overview
 **Topic: Toward a Better World**
 
 ## 🔹 Target Learner

@@ -19,7 +19,7 @@ Topic: Toward a Better World
 ## Objectives
 1. Students will be able to activate prior knowledge and connect to the topic through a video discussion.
 2. Students will be able to summarize a text to identify its main idea and key details.
-3. Students will be able to sequence story events accurately using visual aids and teamwork.
+3. Students will be able to sequence story events accurately using visual aids.
 
 # 💫 Lesson Plan
 
@@ -27,7 +27,7 @@ Topic: Toward a Better World
 |---------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------|
 | **1. Warm-Up**                                    | Activate prior knowledge and introduce the topic          | Show My Video ([Video](https://www.youtube.com/shorts/LCGjTnpfBTc)).<br>- Briefly discuss its connection to the lesson.                                                                 |                                                                                                 | 3 mins   |
 | **2. Summarize the Text**                         | Help students grasp the main idea of the text before reading | **1.** Students copy and paste the reading text into the ‘Summarize the Text’ app.<br>**2.** Read the generated summary.<br> |          🎯**App#1** - [Summarize the Text](https://alexwcjung.streamlit.app/App:_Summarize-the-text)                                                                                       | 5 mins   |
-| **3. Story Listening & Reading - Reconstruction**         | Boost understanding through visual supports and teamwork  | **1.** Play the full story audio.<br>**2.** Students listen to the story and arrange pictures in the correct order.<br>                                                     | 🎯**App#3** - [Story Order](https://alexwcjung.streamlit.app/App:_Story-Reconstruction)                 | 10 mins  |
+| **3. Story Listening & Reading - Reconstruction**         | Boost understanding through visual supports | **1.** Play the full story audio.<br>**2.** Students listen to the story and arrange pictures in the correct order.<br>                                                     | 🎯**App#3** - [Story Order](https://alexwcjung.streamlit.app/App:_Story-Reconstruction)                 | 10 mins  |
 
 
 

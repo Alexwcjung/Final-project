@@ -10,10 +10,10 @@
 # 💫 Lesson Overview
 Topic: Toward a Better World
 
-## Target Learners
+## ⛄Target Learners
 Second-year vocational high school students with a basic level of English
 
-## Time
+## ⛄Time
 50 minutes
 
 ## Objectives

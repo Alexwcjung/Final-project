@@ -7,7 +7,7 @@
 ---
 
 
-## 📗 Lesson Plan
+# 📗 Lesson Plan
 
 ### 🏷️ Target Learners
 Second-year vocational high school students with a basic level of English

@@ -7,7 +7,7 @@
 
 ---
 
-# 📣 Lesson Overview
+# 🌱 Lesson Overview
 **Topic: The Lighthouse Lesson**
 
 ## 🔹 Target Learner

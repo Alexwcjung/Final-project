@@ -5,22 +5,26 @@
  | 🎯[APP#1](https://huggingface.co/spaces/verastudio/Online_Dictionary) | 🎯[APP#2](https://huggingface.co/spaces/verastudio/keywordcloud) |🎯[APP#3](https://huggingface.co/spaces/verastudio/Story_Order) |🎯[APP#4.1](https://huggingface.co/spaces/verastudio/Letter_Maker1) |🎯[APP#4.2](https://huggingface.co/spaces/verastudio/Letter_Maker2) |🎯[APP#5](https://huggingface.co/spaces/verastudio/Multiple_Choice) |🎯[Presentation](https://prezi.com/view/I33v73YCVBnS2XYrc6LA/) |🎯[Code Page](https://github.com/verastudio/G2-finalproject/blob/main/FPG02.ipynb) |🎯[GPT](https://chatgpt.com/)
 
 ---
-## 📗Lesson Overview
+
+
+## 📗 Lesson Plan
+
 ### 🏷️ Target Learners
 Second-year vocational high school students with a basic level of English
 
 ### 🏷️ Content and Coverage
 Neungyul High School English, Lesson 4: "Toward a Better World"
 
-### 🏷️ Class time 
+### 🏷️ Skills Focused
+Speaking, Reading, Listening, and Writing
+
+### 🏷️ Overall time 
 50 minutes
 
 ### 🏷️ Lesson Objectives
 1. Students will be able to activate prior knowledge and connect to the topic through a video discussion.
 2. Students will be able to summarize a text to identify its main idea and key details.
 3. Students will be able to sequence story events accurately using visual aids.
-
-## 📗 Lesson Plan
 
 | **Activity**                                      | **Objective**                                               | **Procedure**                                                                                                                                                                                                                       | **App**                                                                                         | **Duration** |
 |---------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------|

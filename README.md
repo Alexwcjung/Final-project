@@ -10,13 +10,13 @@
 # 💫 Lesson Overview
 **Topic: Toward a Better World**
 
-## 🔹 Target Learner
+## 💠Target Learner
 **2nd Year Vocational High School Students at Basic English Level**
 
-## 🔹 Time
+## 💠 Time
 **50 minutes**
 
-## 🔹 Objectives
+## 💠 Objectives
 1. **Students will be able to extract and identify keywords from listening passages.**
 2. **Students will be able to reconstruct story sequences based on audio prompts.**
 3. **Students will be able to describe reconstructed story images using keywords.**

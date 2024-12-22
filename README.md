@@ -20,7 +20,7 @@ Neungyul High School English, Lesson 4: "Toward a Better World"
 2. Students will be able to summarize a text to identify its main idea and key details.
 3. Students will be able to sequence story events accurately using visual aids.
 
-# 📗 Lesson Plan
+## 📗 Lesson Plan
 
 | **Activity**                                      | **Purpose**                                               | **Steps**                                                                                                                                                                                                                       | **App**                                                                                         | **Time** |
 |---------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------|

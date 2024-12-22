@@ -11,7 +11,7 @@
 Topic: Toward a Better World
 
 ## Target Learner
-Second-year vocational high school students with a basic level of English.
+Second-year vocational high school students with a basic level of English
 
 ## Time
 50 minutes

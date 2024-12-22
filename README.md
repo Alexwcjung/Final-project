@@ -6,16 +6,16 @@
 
 ---
 ## 📗Lesson Overview
-### 🧊 Target Learners
+### ♾️ Target Learners
 Second-year vocational high school students with a basic level of English
 
-### 🧊 Content and Coverage
+### 💧 Content and Coverage
 Neungyul High School English, Lesson 4: "Toward a Better World"
 
-### 🧊 Class time 
+### ♾️ Class time 
 50 minutes
 
-### 🧊 Lesson Objectives
+### ♾️ Lesson Objectives
 1. Students will be able to activate prior knowledge and connect to the topic through a video discussion.
 2. Students will be able to summarize a text to identify its main idea and key details.
 3. Students will be able to sequence story events accurately using visual aids.

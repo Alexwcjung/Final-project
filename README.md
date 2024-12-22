@@ -26,6 +26,8 @@ Speaking, Reading, Listening, and Writing
 2. summarize a text to identify its main idea and key details.
 3. sequence story events accurately using visual aids.
 
+### 🏷️ Lesson outline 
+
 | **Activity**                                      | **Objective**                                               | **Procedure**                                                                                                                                                                                                                       | **App**                                                                                         | **Duration** |
 |---------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------|
 | **1. Warm-Up**                                    | Help stduents to think of the topic          | Show a Video ([Video](https://www.youtube.com/shorts/LCGjTnpfBTc)).<br>- Briefly discuss its connection to the lesson.                                                                 |                                                                                                 | 3 mins   |

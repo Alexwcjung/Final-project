@@ -10,13 +10,13 @@
 # 💫 Lesson Overview
 Topic: Toward a Better World
 
-## ⛄Target Learners
+## 1.Target Learners
 Second-year vocational high school students with a basic level of English
 
-## ⛄Time
-50 minutes
+## 2.Time
+50minutes
 
-## Objectives
+## 3.Lesson Objectives
 1. Students will be able to activate prior knowledge and connect to the topic through a video discussion.
 2. Students will be able to summarize a text to identify its main idea and key details.
 3. Students will be able to sequence story events accurately using visual aids.

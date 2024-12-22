@@ -8,13 +8,13 @@
 ---
 
 # 🌱 Lesson Overview
-**Topic: The Lighthouse Lesson**
+**Topic: Toward a Better World**
 
 ## 🔹 Target Learner
-**2nd Year Middle School Students at Intermediate Level**
+**2nd Year Vocational High School Students at Basic English Level**
 
 ## 🔹 Time
-**45 minutes**
+**50 minutes**
 
 ## 🔹 Objectives
 1. **Students will be able to extract and identify keywords from listening passages.**
